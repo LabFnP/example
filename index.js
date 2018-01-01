@@ -2,5 +2,6 @@ function butter(...a) {
   return a;
 }
 
-console.log('Yu Lin');
+const b = 5;
+console.log(b);
 console.log(butter(1, 2, 3));
